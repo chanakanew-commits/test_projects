@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<campushub>
+  <events>
+    <event id="1">
+      <title>Annual Sports Day</title>
+      <type>Sports</type>
+      <description>Inter-campus athletics and team sports competition.</description>
+      <event_date>2025-06-30</event_date>
+      <location>Main Campus Ground</location>
+      <total_slots>200</total_slots>
+      <registered>143</registered>
+    </event>
+    <event id="2">
+      <title>Web Dev Bootcamp</title>
+      <type>Workshop</type>
+      <description>Full-day HTML, CSS and JavaScript workshop.</description>
+      <event_date>2025-07-05</event_date>
+      <location>IT Lab Block A</location>
+      <total_slots>40</total_slots>
+      <registered>38</registered>
+    </event>
+    <event id="3">
+      <title>Photography Club Launch</title>
+      <type>Club</type>
+      <description>Kickoff session for the new photography club.</description>
+      <event_date>2025-07-10</event_date>
+      <location>Media Room 2</location>
+      <total_slots>60</total_slots>
+      <registered>22</registered>
+    </event>
+    <event id="4">
+      <title>Coding Competition 2025</title>
+      <type>Competition</type>
+      <description>Solve challenges and win exciting prizes.</description>
+      <event_date>2025-07-15</event_date>
+      <location>Engineering Hall</location>
+      <total_slots>80</total_slots>
+      <registered>55</registered>
+    </event>
+    <event id="5">
+      <title>Debate Club Open</title>
+      <type>Club</type>
+      <description>Open session — all debating levels welcome.</description>
+      <event_date>2025-07-20</event_date>
+      <location>Auditorium B</location>
+      <total_slots>50</total_slots>
+      <registered>18</registered>
+    </event>
+  </events>
+</campushub>
